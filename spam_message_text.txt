@@ -1,0 +1,5 @@
+HI My Friend
+This is a python program
+This automates the messages if you have to send in bulk.
+I hope you would like it.
+
