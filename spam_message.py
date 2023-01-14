@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 time.sleep(3)
-with open('baba.txt', 'r') as file:
+with open('spam_message_text.txt', 'r') as file:
     a = file.readlines()
     for lines in a:
         pyautogui.write(lines)
